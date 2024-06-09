@@ -1,0 +1,4 @@
+mmlu-test/
+venv/
+.env
+.ipynb_checkpoints/
